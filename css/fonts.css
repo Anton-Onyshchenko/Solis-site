@@ -6,7 +6,6 @@
   src: url("../assets/fonts/PlayfairDisplay-VariableFont_wght.ttf")
     format("truetype");
 }
-
 @font-face {
   font-display: swap;
   font-family: "Playfair Display";
