@@ -50,7 +50,6 @@ button {
   font-family: inherit;
   font-weight: 700;
   font-size: 20px;
-  letter-spacing: 0.08em;
   margin-top: 50px;
   background: transparent;
   position: relative;
@@ -228,7 +227,7 @@ button::after {
   content: "$";
   top: 22px;
   left: -10px;
-  font-family: "Playfair Display", sans-serif;
+  font-family: var(--secondary-font);
   font-weight: 400;
   font-size: 40px;
   line-height: 1.25;
@@ -616,6 +615,8 @@ button::after {
 .contact__form__button {
   width: 173px;
   padding: 0;
+  margin: 0;
+  text-align: center;
 }
 
 .contact__container__element {
