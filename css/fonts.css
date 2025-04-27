@@ -12,7 +12,7 @@
   font-family: "Playfair Display";
   font-style: italic;
   font-weight: 400;
-  src: url("/assets/fonts/PlayfairDisplay-Italic-VariableFont_wght.ttf")
+  src: url("../assets/fonts/PlayfairDisplay-Italic-VariableFont_wgh.ttf")
     format("truetype");
 }
 
@@ -43,7 +43,7 @@
   font-family: "Lato";
   font-style: normal;
   font-weight: 600;
-  src: url("/assets/fonts/lato/latosemibold.ttf") format("truetype"),
-    url("assets/fonts/lato/latosemibold.woff") format("woff"),
+  src: url("../assets/fonts/lato/latosemibold.ttf") format("truetype"),
+    url("..assets/fonts/lato/latosemibold.woff") format("woff"),
     url("../assets/fonts/lato/latosemibold.woff2") format("woff2");
 }
