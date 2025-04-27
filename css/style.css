@@ -158,7 +158,7 @@ button::after {
 /* Hero */
 
 .hero__section {
-  background-image: url(/assets/images/bacground/first-screen-background.jpg);
+  background-image: url(../assets/images/bacground/first-screen-background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 260px 0 431px 0;
