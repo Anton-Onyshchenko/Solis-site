@@ -1,0 +1,6 @@
+@import url(./fonts.css);
+
+:root {
+  --main-font: "Lato", sans-serif;
+  --secondary-font: "Playfair Display", serif;
+}
